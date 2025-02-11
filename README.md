@@ -3,9 +3,6 @@
 - 🌱 Learning: 금융 IT, 데이터 분석, 알고리즘
 - 📫 Contact: [Email](mailto:your@email.com) | [Blog](https://yourblog.com)
 
-![ParkSiBang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParkSiBang&show_icons=true&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ParkSiBang&theme=dark)](https://git.io/streak-stats)
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
