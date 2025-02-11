@@ -1,4 +1,4 @@
-### 박시현입니다!
+### 😊 박시현입니다!
 ---
 ### 🛠 Languages & Technologies
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
