@@ -1,7 +1,5 @@
 ### 박시현입니다!
 ---
-- 🔗 **Links**: [Email](mailto:qkrtlgus2755@naver.com) | [Blog](https://velog.io/@parksibang2755/posts)
----
 ### 🛠 Languages & Technologies
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&logoColor=F7DF1E)
