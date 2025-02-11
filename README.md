@@ -2,6 +2,12 @@
 
 ---
 
+### 🎓 Education  
+- **Incheon National University** – Bachelor of Computer Engineering (2018-2024)  
+- **신한DS금융SW아카데미** – Full-Stack Developer (2024-2025)  
+
+---
+
 ### 🛠 Languages & Technologies
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&logoColor=F7DF1E)
