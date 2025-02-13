@@ -22,5 +22,6 @@
 
 ---
 
-### 🏆 Programmers
+  <img src="https://github.com/user-attachments/assets/777f78d6-8f15-4934-b614-a29465f761bf" alt="Programmers Logo" width="200">
+
 ![Programmers Badge](https://raw.githubusercontent.com/ParkSiBang/Programmers_Badge_Generator/main/result/result.svg)
