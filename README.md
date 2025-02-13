@@ -3,8 +3,8 @@
 ---
 
 ### 🎓 Education  
-- **Incheon National University** – Bachelor of Computer Science (2018-2024)  
-- **신한 금융SW 아카데미** – Full Stack Developer (2024-2025)  
+-  🏫 **Incheon National University** – Bachelor of Computer Science (2018-2024)  
+- <img src="https://github.com/user-attachments/assets/d58f076c-092b-413f-8097-961efbadec42" width="20" align="absmiddle"> **신한 금융SW 아카데미** – Full Stack Developer (2024-2025)
 
 ---
 
